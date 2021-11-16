@@ -126,6 +126,11 @@
 
 [Circular Identicons](https://github.com/ea7ababe/identicon), by [Agni Flechette](https://github.com/ea7ababe)  —  2017
 
+## Gradient
+![Gradient Avatars, by Tobias Lins  —  2017](media/Gradient-avatars_Tobias-Lins.png)
+
+[Gradient Avatars](https://github.com/tobiaslins/avatar), by [Tobias Lins](https://github.com/tobiaslins)  —  2017
+
 
 <!-- 2018 -->
 
@@ -160,6 +165,12 @@
 ![Polkadot-Identicon, by Pokadot - 2018](media/polkadot-identicon_Polkadot.png)
 
 [Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) - 2018
+
+
+## LifeHash
+![LifeHash, by Wolf McNally and Blockchain Commons, 2018](media/LifeHash_Wolf-McNally.png)
+
+[LifeHash](https://github.com/BlockchainCommons/bc-lifehash), by [Wolf McNally](https://github.com/WolfMcNally) and [Blockchain Commons](https://github.com/BlockchainCommons) - 2018
 
 # Honorable mention
 ## QR-Code
