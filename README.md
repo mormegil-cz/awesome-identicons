@@ -60,6 +60,11 @@
 
 [Stitchy](https://github.com/craftoid/stitchies-p5), by [Martin Schneider](https://github.com/craftoid) — 2012
 
+## Moji
+![Moji, by Michael Luggen — 2012](media/Moji-Michael-Luggen.png)
+
+[Moji](https://exascale.info/assets/pdf/students/MSc_Thesis_-_Michael_Luggen__14_09_2012.pdf), by [Michael Luggen](https://github.com/l00mi) — 2012
+
 <!-- 2013 -->
 
 ## Github Identicon
@@ -134,6 +139,11 @@
 
 <!-- 2018 -->
 
+## Snowflakes
+![Snowflakes, by Raph Levien — 2017](media/Snowflakes-Raph-Levien.png)
+
+[Snowflakes](https://levien.com/snowflake-explain.html), by [Raph Levien](https://levien.com/) — 2018
+
 ## HashIcon
 ![HashIcon, by Richard Schumann — 2018](media/HashIcon_Richard-Schumann.png)
 
@@ -144,12 +154,10 @@
 
 [Hexicon](https://github.com/naknomum/hexicon/), by [Jon Van Oast](https://github.com/naknomum) - 2018
 
-
 ## Hydro-Snowflake
 ![Hydro-Snowflake, by Rawad Ahmad Salhab — 2018](media/Hydro-Snowflake_Rawad-Ahmad-Salhab.png)
 
 [Hydro-Snowflake](https://github.com/cyphercodes96/Hydro-Snowflake-Identicon-Generator), by [Rawad Ahmad Salhab](https://github.com/cyphercodes96) — 2018
-
 
 ## Pictogrify
 ![Pictogrify, by Lúcio Rubens - 2018](media/Pictogrify_Lucio-Rubens.png)
@@ -166,11 +174,28 @@
 
 [Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) - 2018
 
-
 ## LifeHash
 ![LifeHash, by Wolf McNally and Blockchain Commons, 2018](media/LifeHash_Wolf-McNally.png)
 
 [LifeHash](https://github.com/BlockchainCommons/bc-lifehash), by [Wolf McNally](https://github.com/WolfMcNally) and [Blockchain Commons](https://github.com/BlockchainCommons) - 2018
+
+<!-- 2019 -->
+
+
+<!-- 2020 -->
+
+## Urbit Sigils
+![Urbit Sigils – 2020](media/sigils11-v2.png)
+
+[Sigils](https://urbit.org/blog/creating-sigils), by [Urbit](https://urbit.org/) – 2020
+
+
+<!-- 2021 -->
+
+## Hashvatars
+![Hashvatars, by François Best – 2021](media/Hashvatar-Francois-Best.png)
+
+[Hashvatars](https://francoisbest.com/posts/2021/hashvatars), by [François Best](https://francoisbest.com/) – 2021
 
 # Honorable mention
 ## QR-Code
@@ -191,6 +216,10 @@ Letter Avatar — 2014
 Anonymous animals, by Google docs - 20??
 <!-- also available [animal-identicon-js](https://github.com/camelmasa/animal-identicon-js) -->
 
+## Blank.JS
+![Blank.JS](media/blank-js.png)
+
+[Blank.JS](https://www.blankjs.com/), by [Dyssent](https://github.com/dyssent) – 2019
 
 
 # Contributing
